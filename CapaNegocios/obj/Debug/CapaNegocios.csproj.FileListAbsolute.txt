@@ -20,3 +20,14 @@ G:\C#\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.ca
 G:\C#\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
 G:\C#\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.dll
 G:\C#\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.pdb
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Luis\source\repos\Evaluacion_Rodolfo\CapaNegocios\obj\Debug\CapaNegocios.pdb

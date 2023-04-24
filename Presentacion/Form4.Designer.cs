@@ -141,7 +141,7 @@
             // BtnGP
             // 
             this.BtnGP.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnGP.Location = new System.Drawing.Point(180, 387);
+            this.BtnGP.Location = new System.Drawing.Point(162, 361);
             this.BtnGP.Name = "BtnGP";
             this.BtnGP.Size = new System.Drawing.Size(115, 40);
             this.BtnGP.TabIndex = 10;
@@ -167,7 +167,7 @@
             // btnTerminar
             // 
             this.btnTerminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnTerminar.Location = new System.Drawing.Point(310, 387);
+            this.btnTerminar.Location = new System.Drawing.Point(297, 363);
             this.btnTerminar.Name = "btnTerminar";
             this.btnTerminar.Size = new System.Drawing.Size(191, 36);
             this.btnTerminar.TabIndex = 13;
@@ -179,7 +179,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(294, 331);
+            this.label3.Location = new System.Drawing.Point(285, 326);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(114, 15);
             this.label3.TabIndex = 14;

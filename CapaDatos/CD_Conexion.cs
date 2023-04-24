@@ -10,7 +10,7 @@ namespace CapaDatos
 {
     public  class CD_Conexion
     {
-        private SqlConnection conexion =new SqlConnection("Server=DESKTOP-N6BHBBT\\LUIS; Database=NaturVida; Integrated Security=true");// se crea la conexion 
+        private SqlConnection conexion =new SqlConnection("Server=sql8005.site4now.net; Database=db_a98302_luis2708; User ID=db_a98302_luis2708_admin;Password=Luis270802; Trusted_Connection=false;MultipleActiveResultSets=true");// se crea la conexion 
 
         public SqlConnection AbrirConexion() // se abre la conexion
         {

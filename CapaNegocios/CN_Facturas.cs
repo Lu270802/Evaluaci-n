@@ -27,12 +27,7 @@ namespace CapaNegocios
             oCD_Facturas.AggDetalleFac(factura);
         }
 
-        public DataTable Mostrarultimo()// se crea el metodo de mostrar el ultimo numero 
-        {
-            DataTable dt = new DataTable();
-            dt = oCD_Facturas.MostrarU();
-            return dt;
-        }
+       
         public string  UltmimoId()// se crea el metodo 
         {
            string id = oCD_Facturas.UltmimoId();

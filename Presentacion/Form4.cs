@@ -48,9 +48,6 @@ namespace Presentacion
             MostrarP();
             Ultimoid();
             
-
-
-
         }
         private void MostrarC() // que me muestre los clientes 
         {
@@ -102,6 +99,7 @@ namespace Presentacion
             txtTotal.Clear();
             CmbCliente.Enabled = true;// que el combo box de cliente se habilite porque ya se creara un nueva facutura 
             Ultimoid();
+            dt.Clear();
           
         }
         private void fact() // metodo de agregar a la tabla factura 
@@ -137,20 +135,22 @@ namespace Presentacion
         }
         private void Ultimoid()// se crea el metodo de traer el ultimo numero
         {
-            if (oCN_Facturas.UltmimoId() == "")//condicion 
+            if (oCN_Facturas.UltmimoId() != " ")//condicion 
             {
-                txtFactura.Text = 1.ToString();
+
+                id = Convert.ToInt32(oCN_Facturas.UltmimoId()) + 1;/// si no no s va a traer el proceso 
+                txtFactura.Text = id.ToString();
+               
 
             }
             else
             {
-                id = Convert.ToInt32(oCN_Facturas.UltmimoId())+1;/// si no no s va a traer el proceso 
-                txtFactura.Text = id.ToString();
+                txtFactura.Text = 1.ToString();
             }
 
         }
        
-           
+       
         
         
     }
