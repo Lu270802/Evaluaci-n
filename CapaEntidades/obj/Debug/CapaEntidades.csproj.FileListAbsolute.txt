@@ -1,0 +1,12 @@
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+G:\C#\Evaluacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+G:\C#\Evaluacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+G:\C#\Evaluacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+G:\C#\Evaluacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+G:\C#\Evaluacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+G:\C#\Evaluacion\CapaEntidades\obj\Debug\CapaEntidades.pdb

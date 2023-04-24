@@ -1,0 +1,46 @@
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.Form2.resources
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.Form3.resources
+G:\C#\Evaluacion\Presentacion\bin\Debug\Presentacion.exe.config
+G:\C#\Evaluacion\Presentacion\bin\Debug\Presentacion.exe
+G:\C#\Evaluacion\Presentacion\bin\Debug\Presentacion.pdb
+G:\C#\Evaluacion\Presentacion\bin\Debug\CapaEntidades.dll
+G:\C#\Evaluacion\Presentacion\bin\Debug\CapaNegocios.dll
+G:\C#\Evaluacion\Presentacion\bin\Debug\CapaDatos.dll
+G:\C#\Evaluacion\Presentacion\bin\Debug\CapaEntidades.pdb
+G:\C#\Evaluacion\Presentacion\bin\Debug\CapaNegocios.pdb
+G:\C#\Evaluacion\Presentacion\bin\Debug\CapaDatos.pdb
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.exe
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.Form4.resources
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\Presentacion\obj\Debug\Presentacion.Login.resources
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.Login.resources
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.Clientes.resources
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.Items.resources
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.Productos.resources
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.factura.resources
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.Vendedores.resources
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.Inventario.resources
+G:\C#\Evaluacion\Presentacion\obj\Debug\Presentacion.csproj.ResolveComReference.cache

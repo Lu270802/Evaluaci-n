@@ -1,0 +1,22 @@
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Sena CSET\Desktop\evaluacion sebastian\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.pdb
+G:\C#\Evaluacion\CapaNegocios\bin\Debug\CapaNegocios.dll
+G:\C#\Evaluacion\CapaNegocios\bin\Debug\CapaNegocios.pdb
+G:\C#\Evaluacion\CapaNegocios\bin\Debug\CapaDatos.dll
+G:\C#\Evaluacion\CapaNegocios\bin\Debug\CapaEntidades.dll
+G:\C#\Evaluacion\CapaNegocios\bin\Debug\CapaDatos.pdb
+G:\C#\Evaluacion\CapaNegocios\bin\Debug\CapaEntidades.pdb
+G:\C#\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+G:\C#\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+G:\C#\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+G:\C#\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.dll
+G:\C#\Evaluacion\CapaNegocios\obj\Debug\CapaNegocios.pdb
